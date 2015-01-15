@@ -3,8 +3,10 @@ languages: html, css
 plane-ride
 ==========
 
-Created November 16, 2014 using HTML5 and CSS
+Created November 16, 2014 using HTML5 and CSS3
 
-purpose: to act as a "choose your own adventure" story
+Acts as a "choose your own adventure" story
+
+Practice using HTML and CSS
 
 Updated November 16, 2014
