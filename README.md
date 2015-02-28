@@ -1,5 +1,3 @@
-tags: html, css
-languages: html, css
 plane-ride
 ==========
 
